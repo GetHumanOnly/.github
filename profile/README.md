@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GetHumanOnly/extension/main/assets/icons/icon128.png" alt="GetHumanOnly" width="100">
+  <img src="https://raw.githubusercontent.com/GetHumanOnly/.github/main/profile/icon128.png" alt="GetHumanOnly" width="100">
 </p>
 
 <h1 align="center">GetHumanOnly</h1>
